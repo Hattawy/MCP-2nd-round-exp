@@ -1,0 +1,18 @@
+run number	9008
+date		28 Feb 2018
+sourec	led	1000 hz
+detector	mcp 69
+Cathode HV      3800	
+voltage		2800
+theta		NAN
+fixed filter	NAN
+XandY		NAN,NAN
+ch0		left
+		
+ch2		right of strip
+ 
+ch6		attenuated trig
+
+runDesc		LED
+10K events
+notes:		mcp 69 with LED without B field
